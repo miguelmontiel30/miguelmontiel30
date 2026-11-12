@@ -1,59 +1,46 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I’m Miguel Montiel</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Lifelong Learner</h3>
+<h1 align="center">👋 Hi, I'm Miguel Montiel</h1>
+<h3 align="center">Software Engineer III at Walmart Global Tech · I build mobile and web products end to end</h3>
 
 <p align="center">
-  <a href="mailto:migueel.angelom@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-migueel.angelom@gmail.com-blue"/></a>
+  <a href="https://miguelmontiel30.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-miguelmontiel30.github.io-1a56db"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/miguelmontiel30"><img src="https://img.shields.io/badge/🔗%20LinkedIn-miguelmontiel30-blue"/></a>
+  <a href="https://www.linkedin.com/in/miguel-montiel30"><img src="https://img.shields.io/badge/LinkedIn-miguel--montiel30-0a66c2"/></a>
+  &nbsp;
+  <a href="mailto:migueel.angelom@gmail.com"><img src="https://img.shields.io/badge/Email-migueel.angelom@gmail.com-555"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-I’m a Full-Stack Web Developer from Mexico with a passion for building scalable applications and intuitive user experiences.  
-I specialize in **React**, **Next.js**, **TypeScript**, and I’m currently expanding my knowledge in **AI**.
+## 👨‍💻 About me
 
-- 🌱 Currently learning: **Data Analysis**, **GraphQL**, **Cloud Deployments**  
-- 💡 I love collaborating on **open-source** projects and tackling challenges that push my skills  
-- 🌐 Portfolio: [miguelmontiel30.github.io/Portfolio](https://miguelmontiel30.github.io/Portfolio/)  
+Software engineer from Tulancingo, Hidalgo, Mexico, with five years at **Walmart Global Tech**.
+I like owning a product from the database and its security rules to the app in people's hands:
+**React Native, Expo, Next.js and Supabase**, shipped to the web, iOS and Android from one codebase.
+
+Lately I've been building the tooling that makes that repeatable, including how AI agents work on my
+projects: shared rules, a Claude Code plugin and a hub that tracks every session and decision.
+
+## 🚀 What I'm building
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Residencial Pro](https://residencial-pro-admin.vercel.app)** | Runs gated communities in Mexico: fees and receipts, expenses, visitor QR passes, guard booth, announcements, polls and push notifications. In production. **[Try the demo →](https://residencial-pro.expo.app/demo)** | Expo · Supabase · Next.js |
+| **Foundra** | My framework for Expo + Supabase apps: CLI, UI kit, themes, icons, a backend-agnostic data layer, rules for AI agents, a Claude Code plugin and a tracking hub. 13 packages. | TypeScript · Changesets |
+| **Wallet AI** | Personal finance with AI: classifies expenses, reads receipts and odometers, evaluates installment purchases. | Expo · Supabase · AI |
+| **Rivus** | Brain-dump app: quick capture, AI-sorted inbox, nested projects and a Pomodoro timer. | Expo · Claude API |
+| **[Reta](https://reta-web-app-web.vercel.app)** | Amateur football tournaments: venue availability, match setup and live refereeing. | Next.js · Supabase |
+| **[EduSync](https://github.com/miguelmontiel30/edu-sync)** | School management for students, teachers, staff and parents. | Next.js · Supabase |
+
+Most of these repositories are private; the links go to public demos.
+
+## 🧰 Stack
+
+- **Mobile and web:** React · React Native · Expo · Next.js · TypeScript · PWA
+- **Backend and data:** Supabase · PostgreSQL · row-level security · Edge Functions · Node.js · GraphQL
+- **State and quality:** TanStack Query · Zustand · Zod · Vitest · ESLint · Sentry
+- **Shipping:** EAS Build, Update and Hosting · GitHub Actions · Vercel · Docker
+- **AI:** Claude API · Claude Code · agent rules and skills
 
 ---
 
-## 🚀 Skills
-
-<table align="center">
-  <tr>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="center"><strong>Backend</strong></td>
-    <td align="center"><strong>Databases</strong></td>
-    <td align="center"><strong>Tools</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br>React<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/><br>Angular<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/><br>JavaScript<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/><br>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30"/><br>Node.js<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30"/><br>Express<br>
-      <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="30"/><br>GraphQL<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30"/><br>PHP
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30"/><br>MongoDB<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/><br>MySQL<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30"/><br>PostgreSQL<br>
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30"/><br>Firebase
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/><br>Docker<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/><br>Jenkins<br>
-      <img src="https://github.com/user-attachments/assets/134d2ee7-39c7-4e09-992a-b01d11c03f9a" width="25"/><br>Figma<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30"/><br>Webpack
-    </td>
-  </tr>
-</table>
+<p align="center">🇲🇽 <a href="https://miguelmontiel30.github.io/Portfolio/?lang=es">Portafolio en español</a></p>
