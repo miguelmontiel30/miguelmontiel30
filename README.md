@@ -12,9 +12,9 @@
 
 ## 👨‍💻 About Me
 I’m a Full-Stack Web Developer from Mexico with a passion for building scalable applications and intuitive user experiences.  
-I specialize in **React**, **Next.js**, **TypeScript**, and I’m currently expanding my knowledge in **AI**.
+I specialize in **React**, **Next.js**, **TypeScript**, and I’m currently exploring how to bring **AI** into real-world products.
 
-- 🌱 Currently learning: **Data Analysis**, **GraphQL**, **Cloud Deployments**  
+- 🌱 Currently learning: **AI / LLM integrations**, **Data Analysis**, **Cloud Deployments**  
 - 💡 I love collaborating on **open-source** projects and tackling challenges that push my skills  
 - 🌐 Portfolio: [miguelmontiel30.github.io/Portfolio](https://miguelmontiel30.github.io/Portfolio/)  
 
@@ -32,7 +32,8 @@ I specialize in **React**, **Next.js**, **TypeScript**, and I’m currently expa
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/><br>React<br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30"/><br>Angular<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/><br>Next.js<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="30"/><br>Angular<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/><br>JavaScript<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/><br>TypeScript
     </td>
@@ -52,8 +53,12 @@ I specialize in **React**, **Next.js**, **TypeScript**, and I’m currently expa
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30"/><br>Git<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/><br>Docker<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="30"/><br>Jenkins<br>
-      <img src="https://github.com/user-attachments/assets/134d2ee7-39c7-4e09-992a-b01d11c03f9a" width="25"/><br>Figma<br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="30"/><br>Figma<br>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30"/><br>Webpack
     </td>
   </tr>
 </table>
+
+---
+
+<p align="center">⭐ Thanks for visiting! Feel free to reach out if you want to collaborate.</p>
